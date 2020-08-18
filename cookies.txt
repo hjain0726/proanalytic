@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pronalytiq.com	TRUE	/	FALSE	1999999999	mc_session_ids[default]	2d5c004d742215fb2e0f23381c667c581d9b94b0
+www.pronalytiq.com	TRUE	/	FALSE	1999999999	mc_session_ids[multi][0]	a64900614805860ca9ad975410d297cc4649dc44
+www.pronalytiq.com	TRUE	/	FALSE	1999999999	mc_session_ids[multi][1]	8612c8df4c6f7e318506156459f44a9edccf876e
+www.pronalytiq.com	TRUE	/	FALSE	1999999999	mc_session_ids[multi][2]	34f5a2c3d18de9611595c021a6e7ffe634d63152
+www.pronalytiq.com	TRUE	/	FALSE	1999999999	mc_session_ids[multi][3]	7ae948c0ecd3187133f83a03693b25e861581943
+www.pronalytiq.com	TRUE	/	FALSE	1999999999	mc_session_ids[multi][4]	ed5afbae554a8618829ef75856c7ccb25444429d
+
